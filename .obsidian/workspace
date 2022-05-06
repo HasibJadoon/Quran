@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "241b30ed79771d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c572be90a32dc3e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quran/Quran/Surahs/سورة البقرة/02 Al - Baqara.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "c6b4952314da4c0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quran/Quran/Surahs/سورة البقرة/Quick Notes.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b00b13ec90ff9914",
+    "type": "split",
+    "children": [
+      {
+        "id": "02db6eed3f953a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574c717fd9427f6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df574de64b776a61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0be188550ea24427",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "355d9f1edfa4865b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd12f7b765af6c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76b3745e798212d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quran/Quran/Surahs/سورة البقرة/Quick Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2744967e91ee9b52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quran/Quran/Surahs/سورة البقرة/Quick Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25a2a3173705c90a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "476f4068697763c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d69e64ab856798e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c6b4952314da4c0a",
+  "lastOpenFiles": [
+    "Quran/Quran/Surahs/سورة البقرة/Quick Notes.md",
+    "Quran/Quran/Surahs/سورة البقرة/02 Al - Baqara.md",
+    "Quran/Quran/Surahs/سورة البقرة/سورة البقرة.md",
+    "Quran/Quran/Surahs/سورة البقرة/سورة البقرة 02.md",
+    "Quran/Quran/Important/لفظ الجلالة.md",
+    "Arabic Grammar/Arabic Grammar/Terms/┘à┘ü╪╣┘ê┘ä ╪¡╪º┘ä.md",
+    "Arabic Grammar/Arabic Grammar/Terms/┘à┘ê╪╡┘ê┘ü ╪╡┘ü╪⌐.md",
+    "Arabic Grammar/Arabic Grammar/Terms/┘à┘É┘å┘Æ.md",
+    "╪¿┘Ä╪º╪▒┘É┘è┘É┘ö.md",
+    "Quran/Quran/Surahs/╪│┘ê╪▒╪⌐ ╪º┘ä╪¬╪║╪º╪¿┘å/╪º╪╣╪▒╪º╪¿ ╪º┘ä╪¬╪║╪º╪¿┘å.md"
+  ]
+}
